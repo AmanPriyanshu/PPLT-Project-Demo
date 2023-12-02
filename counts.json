@@ -1,0 +1,127 @@
+{
+    "India": [
+        {
+            "I would never want to share this data, regardless of the earning amount.": 1,
+            "It is lower than I expected.": 1,
+            "It is more than I expected.": 9,
+            "It seems fair.": 10
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 2,
+            "It is lower than I expected.": 3,
+            "It seems fair.": 16
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 10,
+            "It is lower than I expected.": 4,
+            "It is more than I expected.": 2,
+            "It seems fair.": 5
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 3,
+            "It is more than I expected.": 14,
+            "It seems fair.": 4
+        }
+    ],
+    "Japan": [
+        {
+            "I would never want to share this data, regardless of the earning amount.": 6,
+            "It is lower than I expected.": 2,
+            "It is more than I expected.": 3,
+            "It seems fair.": 4
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 6,
+            "It is lower than I expected.": 5,
+            "It is more than I expected.": 1,
+            "It seems fair.": 3
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 5,
+            "It is lower than I expected.": 2,
+            "It is more than I expected.": 1,
+            "It seems fair.": 7
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 6,
+            "It is lower than I expected.": 4,
+            "It is more than I expected.": 1,
+            "It seems fair.": 4
+        }
+    ],
+    "Taiwan": [
+        {
+            "I would never want to share this data, regardless of the earning amount.": 6,
+            "It is lower than I expected.": 10,
+            "It is more than I expected.": 3,
+            "It seems fair.": 8
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 8,
+            "It is lower than I expected.": 8,
+            "It is more than I expected.": 2,
+            "It seems fair.": 9
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 10,
+            "It is lower than I expected.": 7,
+            "It seems fair.": 10
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 11,
+            "It is lower than I expected.": 7,
+            "It is more than I expected.": 2,
+            "It seems fair.": 7
+        }
+    ],
+    "Thailand": [
+        {
+            "I would never want to share this data, regardless of the earning amount.": 8,
+            "It is lower than I expected.": 4,
+            "It is more than I expected.": 3,
+            "It seems fair.": 10
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 11,
+            "It is lower than I expected.": 6,
+            "It is more than I expected.": 1,
+            "It seems fair.": 7
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 14,
+            "It is lower than I expected.": 6,
+            "It is more than I expected.": 1,
+            "It seems fair.": 4
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 11,
+            "It is lower than I expected.": 6,
+            "It is more than I expected.": 2,
+            "It seems fair.": 6
+        }
+    ],
+    "United_States": [
+        {
+            "I would never want to share this data, regardless of the earning amount.": 3,
+            "It is lower than I expected.": 5,
+            "It seems fair.": 5
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 3,
+            "It is lower than I expected.": 7,
+            "It is more than I expected.": 1,
+            "It seems fair.": 2
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 5,
+            "It is lower than I expected.": 4,
+            "It is more than I expected.": 1,
+            "It seems fair.": 3
+        },
+        {
+            "I would never want to share this data, regardless of the earning amount.": 5,
+            "It is lower than I expected.": 3,
+            "It seems fair.": 5
+        }
+    ]
+}
