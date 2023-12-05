@@ -104,7 +104,9 @@ Please Answer Questions with respect to the different scenarios given, whether y
                 if np.random.random()>0.5:
                     st.info(outputs_allowed[4][0])
                 else:
-                    st.warning(outputs_allowed[4][1])            
+                    st.warning(outputs_allowed[4][1])       
+    st.markdown("**Team:** Hsin-Li (Cindy) Kan, Oravee Smithiphol, Aman Priyanshu, and Chisaki Nakaizumi")
+    st.markdown("**Under Supervision of:** Professor Lujo Bauer & TA Jenny Tang")
 
 if __name__ == "__main__":
     main()
